@@ -114,10 +114,6 @@ If you like this project give it a ⭐️
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-[Cindy Shin](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) for the Amazing Design Template.
-
-I would like to thank Microverse for their great templates and efforts
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
