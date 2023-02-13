@@ -47,9 +47,8 @@ function displayBooksFromStorage() {
 function removeBookFromStorage(element) {
   const books = loadFromStorage();
   const title = element.parentElement.firstElementChild.innerHTML;
-  const Item = books.findItem((book) => book.title === title);
-  books.splice(Item, 1);
-
+  const bookIndex = books.findIndex((book) => book.title === title);
+  books.splice(bookIndex, 1);
   localStorage.setItem('bookInfo', JSON.stringify(books));
 }
 
