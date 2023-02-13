@@ -1,0 +1,20 @@
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  list-style-type: none;
+  width: 350px;
+  border-bottom: 1px solid gray;
+  padding-bottom: 10px;
+}
+
+.add {
+  margin-bottom: 15px;
+  color: rgb(11, 255, 11);
+}
+
+main {
+  margin-left: 20px;
+}
