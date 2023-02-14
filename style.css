@@ -1,3 +1,14 @@
+* {
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.flex {display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
 ul {
   list-style-type: none;
   padding: 0;
@@ -18,3 +29,76 @@ li {
 main {
   margin-left: 20px;
 }
+
+.form {
+  padding-top: 5%;
+}
+
+.add {
+  margin-bottom: 15px;
+  padding: 7px;
+  background-color: black;
+  color: white;
+  width: 65px;
+  border-radius: 5px;
+  justify-self: flex-end;
+  position: relative;
+  left: 63%;
+}
+
+input {
+  padding: 7px;
+  width: 100%;
+}
+
+.addlist {
+  display: flex;
+  flex-direction: column;
+  font-weight: bold;
+  align-items: center;
+}
+
+li {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style-type: none;
+  width: 450px;
+  border-bottom: 1px solid gray;
+  height: 35px;
+  padding: 0 1%;
+}
+
+.removeBook {
+  margin-top: 1%;
+  vertical-align: bottom;
+  width: 70px;
+  height: 25px;
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+}
+
+hr {
+  width: 20%;
+  height: 3px;
+  background-color: black;
+}
+
+button:hover {
+  background-color: white;
+  color: black;
+  font-weight: bold;
+  transition: 0.9s;
+}
+
+li:nth-child(odd) {
+  background-color: #a3a2a2;
+}
+
+.fill-in {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
