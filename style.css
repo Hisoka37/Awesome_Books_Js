@@ -8,6 +8,7 @@
   flex-direction: column;
   align-items: center;
   width: 100%;
+  padding-top: 9%;
 }
 
 header {
@@ -38,7 +39,6 @@ header {
   color: #fff;
   padding: 10px;
   text-decoration: none;
-  
 }
 
 ul {
@@ -51,7 +51,7 @@ main {
 }
 
 .form {
-  padding-top: 5%;
+  padding-top: 10%;
 }
 
 .add {
@@ -76,6 +76,8 @@ input {
   flex-direction: column;
   font-weight: bold;
   align-items: center;
+  padding-bottom: 45px;
+  font-size: 20px;
 }
 
 .add-books li {
@@ -112,6 +114,10 @@ button:hover {
   transition: 0.9s;
 }
 
+.contact-list li {
+  list-style-type: disc;
+}
+
 .add-books li:nth-child(odd) {
   background-color: #a3a2a2;
 }
@@ -143,11 +149,6 @@ footer {
   width: 50%;
   align-items: center;
   margin: auto;
-}
-
-.contact-list li {
-  list-style-type: disc;
-  
 }
 
 .date {

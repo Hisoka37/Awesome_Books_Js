@@ -15,8 +15,7 @@ class submitNewBook {
     const bookUnit = document.createElement('li');
     bookUnit.id = book.id;
     bookUnit.innerHTML = `
-        <p class="book-name">${book.title}</p>
-        <p class="the-auhtor">${book.author}</p>
+        <p class="book-name">"${book.title}" by ${book.author}</p>
         <button class='removeBook' id=${Books.id}>Remove</button>
         `;
     booksDiv.appendChild(bookUnit);
