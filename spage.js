@@ -1,5 +1,5 @@
-const addBooks = document.querySelector('.link-1');
-const bookList = document.querySelector('.link-2');
+const addBooks = document.querySelector('.link-2');
+const bookList = document.querySelector('.link-1');
 const contactInfo = document.querySelector('.link-3');
 const books = document.querySelector('.add-books');
 const forms = document.querySelector('.form');
