@@ -3,6 +3,7 @@
   <br/>
   <h3><b>Awesome Books</b></h3>
 </div>
+
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
@@ -20,7 +21,6 @@
   - [👥 Author(s) ](#-authors-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
-  - [❓ FAQ ](#-faq-)
   - [📝 License ](#-license-)
   - [📝 License](#-license)
 
