@@ -6,7 +6,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[\_Awesome\_Books\_Js\] \_Awesome\_Books\_Js](#-_awesome_books_js-_awesome_books_js)
+- [📖 About the Project](#about-project)
   - [🛠 Built With Html, css, javascript](#-built-with-html-css-javascript)
     - [Tech Stack HTML5, CSS3 JAVASCRIPT](#tech-stack-html5-css3-javascript)
     - [Key Features ](#key-features-)
@@ -24,7 +24,7 @@
   - [📝 License ](#-license-)
   - [📝 License](#-license)
 
-# 📖 <a name="_Awesome_Books_Js">_Awesome_Books_Js</a>
+# 📖 <a name="about-project">Awesome Books</a>
 
 
 "Awesome books" is a simple website that displays a list of books and allows you to add and remove books from that list.
@@ -65,18 +65,18 @@ live server.
 
 ### Setup
 
-Clone this repository to your desired folder:
-https://github.com/Hisoka37/Awesome_Books_Js
+Clone this repository to your desired folder:[From here](https://github.com/Hisoka37/Awesome_Books_Js)
+
 
 ### Install
 
 Install this project with:
-cd to _Awesome_Books_Js.
+cd to Awesome Books.
 
 ### Run tests
 
 To run tests, run the following command:
-npm test
+`npm test`
 
 ### Deployment
 
@@ -91,7 +91,10 @@ github pages.
 
 👤 **Author1**
 
-- GitHub [Hisoka37] (https://github.com/Hisoka37)
+- GitHub: [@Hisoka37](https://github.com/Hisoka37)
+- Twitter: [@KBwalid9](https://twitter.com/KBwalid9)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/walidkb/)
+
 
 👤 **Author2**
 
@@ -103,11 +106,13 @@ github pages.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- **[future_feature_1]** Refactoring the work section dynamically with Javascript.
-- **[future_feature_2]** List of books.
-- **[future_feature_3]** Remove book button.
-- **[future_feature_4]** 
-- **[future_feature_5]** 
+## 🔭 Future Features <a name="future-features"></a>
+
+-   Refactoring the work section dynamically with Javascript.
+-   List of books.
+-   Remove book button.
+ 
+
 
 <!-- CONTRIBUTING -->
 
